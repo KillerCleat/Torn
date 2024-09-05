@@ -17,7 +17,6 @@
    INSTRUCTIONS:
    1. Replace 'YOUR_API_KEY_HERE' with your actual Torn API key.
    2. Set the target number of sets you want to collect by changing the 'targetSetQuantity' variable.
-   3. Do not change anything below this line.
 */
 
 (function() {
